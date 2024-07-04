@@ -25,7 +25,7 @@ cd slot-machine-tech-with-tim
 3. **Run the Project**:
 
 ```bash
-python slot_machine.py
+python slot_machine_tech_with_tim.py
 ```
 
 ## License
